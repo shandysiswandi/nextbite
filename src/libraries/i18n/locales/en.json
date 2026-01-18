@@ -1,0 +1,40 @@
+{
+  "notFound": {
+    "badge": "Error 404",
+    "title": "We couldn't find the page you requested.",
+    "description": "The page you're looking for doesn't exist or was moved to a new destination.",
+    "primaryAction": "Back to home",
+    "secondaryAction": "Sign in",
+    "quickPathsLabel": "Quick paths",
+    "quickLinks": {
+      "home": {
+        "title": "Return to the hub",
+        "description": "Back to the landing page overview."
+      },
+      "signIn": {
+        "title": "Sign in",
+        "description": "Jump into your workspace."
+      },
+      "register": {
+        "title": "Create account",
+        "description": "Start building your ritual board."
+      }
+    }
+  },
+  "console": {
+    "breadcrumb": {
+      "console": "Console",
+      "notFound": "Not found"
+    },
+    "language": {
+      "label": "Language",
+      "switch": "Switch language"
+    },
+    "notFound": {
+      "badge": "Error 404",
+      "title": "Page not found",
+      "description": "The page you are looking for is not available. Go back to the dashboard or try a different section.",
+      "action": "Back to dashboard"
+    }
+  }
+}

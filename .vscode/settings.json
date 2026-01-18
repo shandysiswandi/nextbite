@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "biomejs.biome",
+  "editor.codeActionsOnSave": {
+    // "source.fixAll.eslint": "always",
+    // "source.organizeImports": "always"
+  },
+
+  "biome.enabled": true,
+  "biome.requireConfiguration": true,
+  "biome.suggestInstallingGlobally": false,
+  "biome.configurationPath": "${workspaceFolder}/biome.jsonc",
+  "biome.lsp.bin": "${workspaceFolder}/node_modules/.bin/biome",
+
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "emmet.showExpandedAbbreviation": "never",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  }
+}

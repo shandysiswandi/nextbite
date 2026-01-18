@@ -1,0 +1,40 @@
+{
+  "notFound": {
+    "badge": "Error 404",
+    "title": "Kami tidak bisa menemukan halaman yang Anda minta.",
+    "description": "Halaman yang Anda cari tidak ada atau sudah dipindahkan.",
+    "primaryAction": "Kembali ke beranda",
+    "secondaryAction": "Masuk",
+    "quickPathsLabel": "Jalur cepat",
+    "quickLinks": {
+      "home": {
+        "title": "Kembali ke beranda",
+        "description": "Ke ringkasan halaman utama."
+      },
+      "signIn": {
+        "title": "Masuk",
+        "description": "Masuk ke ruang kerja Anda."
+      },
+      "register": {
+        "title": "Buat akun",
+        "description": "Mulai membangun papan ritual Anda."
+      }
+    }
+  },
+  "console": {
+    "breadcrumb": {
+      "console": "Konsol",
+      "notFound": "Tidak ditemukan"
+    },
+    "language": {
+      "label": "Bahasa",
+      "switch": "Ganti bahasa"
+    },
+    "notFound": {
+      "badge": "Error 404",
+      "title": "Halaman tidak ditemukan",
+      "description": "Halaman yang Anda cari tidak tersedia. Kembali ke dasbor atau coba bagian lain.",
+      "action": "Kembali ke dasbor"
+    }
+  }
+}
